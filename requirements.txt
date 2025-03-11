@@ -1,0 +1,4 @@
+tensorflow[and-cuda]
+numpy
+pandas
+notebook
